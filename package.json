@@ -1,0 +1,22 @@
+{
+  "name": "planet_project",
+  "version": "1.0.0",
+  "description": "First commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnujPundir29/Planets-with-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnujPundir29/Planets-with-node/issues"
+  },
+  "homepage": "https://github.com/AnujPundir29/Planets-with-node#readme",
+  "dependencies": {
+    "csv-parse": "^4.15.4"
+  }
+}
